@@ -82,7 +82,8 @@ To get started, simply browse through the list of common problems and follow the
    - Select `Windows Update` and run the troubleshooter.
 
 2. **Clear Windows Update Cache**
-   - Open `Command Prompt` as an administrator.
+   - Open `Powershell` as an administrator.
+   - Download the script from this github, and navigate to the location of the script.
    - Run the following commands:
      ```powershell
      .\fixWindowsUpdate.ps1
