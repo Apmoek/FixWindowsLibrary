@@ -5,3 +5,7 @@
 
 1. Windows update services.
    -See fixWindowsUpdate.ps1
+
+## Getting Started
+
+To get started, simply browse through the list of common problems and follow the solutions provided. Each solution includes detailed steps and screenshots (where applicable) to guide you through the process.
