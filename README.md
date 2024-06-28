@@ -2,9 +2,19 @@
 
 ![Windows-10-391236000](https://github.com/Apmoek/FixWindowsLibrary/assets/25083324/fbd0282a-d55c-454e-979f-57ef01ba3451)
 
+## Table of Contents
 
-1. Windows update services.
-   -See fixWindowsUpdate.ps1
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Common Problems and Solutions](#common-problems-and-solutions)
+    - [Problem 1: Slow Performance](#problem-1-slow-performance)
+    - [Problem 2: Network Connectivity Issues](#problem-2-network-connectivity-issues)
+    - [Problem 3: Windows Update Problems](#problem-3-windows-update-problems)
+    - [Problem 4: Application Crashes](#problem-4-application-crashes)
+    - [Problem 5: Blue Screen of Death (BSOD)](#problem-5-blue-screen-of-death-bsod)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## Getting Started
 
