@@ -1,4 +1,4 @@
-## Script to solve Common windows 10/11 problems.
+## FixWindowsLibrary
 
 ![Windows-10-391236000](https://github.com/Apmoek/FixWindowsLibrary/assets/25083324/fbd0282a-d55c-454e-979f-57ef01ba3451)
 
@@ -15,6 +15,10 @@
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Contact](#contact)
+
+## Introduction
+
+This repository contains guides and solutions for common problems faced by users of Windows 10 and Windows 11. Each problem is documented with step-by-step instructions to help you troubleshoot and resolve the issue effectively.
 
 ## Getting Started
 
