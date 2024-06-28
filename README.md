@@ -4,4 +4,4 @@
 
 
 1. Windows update services
-   See fixWindowsUpdate.ps1
+   -See fixWindowsUpdate.ps1
