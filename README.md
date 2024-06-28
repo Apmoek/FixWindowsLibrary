@@ -84,12 +84,8 @@ To get started, simply browse through the list of common problems and follow the
 2. **Clear Windows Update Cache**
    - Open `Command Prompt` as an administrator.
    - Run the following commands:
-     ```shell
-     net stop wuauserv
-     net stop bits
-     rename C:\Windows\SoftwareDistribution SoftwareDistribution.old
-     net start wuauserv
-     net start bits
+     ```powershell
+     .\fixWindowsUpdate.ps1
      ```
 
 ### Problem 4: Application Crashes
@@ -136,7 +132,7 @@ We welcome contributions from the community! If you have a solution to a common 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
