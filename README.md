@@ -1,2 +1,2 @@
 # FixWindowsLibrary
-Scripts to solve common Windows problem. 
+Scripts to solve common Windows problems. 
