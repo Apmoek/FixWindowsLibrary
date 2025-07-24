@@ -139,7 +139,3 @@ We welcome contributions from the community! If you have a solution to a common 
 ## License
 
 This project is licensed under the CC License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need further assistance, please open an issue or contact the repository maintainer at [your-email@example.com](mailto:your-email@example.com).
