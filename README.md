@@ -1,3 +1,8 @@
+---
+## Support
+<a href="https://www.buymeacoffee.com/apmoek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ## FixWindowsLibrary
 
 ![Windows-10-391236000](https://github.com/Apmoek/FixWindowsLibrary/assets/25083324/fbd0282a-d55c-454e-979f-57ef01ba3451)
